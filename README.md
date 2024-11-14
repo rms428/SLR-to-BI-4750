@@ -6,4 +6,4 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository for our Final Project was forked from Lab 2 [BEE 4750](https://viveks.me/environmental-systems-analysis), taught at [Cornell University](https://cornell.edu) in Fall 2024 by [Vivek Srikrishnan](https://viveks.me). 
+This repository for our Final Project was forked from Lab 2, an assignment in [BEE 4750](https://viveks.me/environmental-systems-analysis), taught at [Cornell University](https://cornell.edu) in Fall 2024 by [Vivek Srikrishnan](https://viveks.me). 
