@@ -8,6 +8,8 @@
 - `CO-OPS_8518750_met.csv`is the historical SLR for NYC Battery Park
 - `storm_data_search_results.csv` is the historical flooding for NYC Battery Park
 
+## Papers I think will be useful but not there yet:
+- [Buildings Impacted](https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.15175)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
